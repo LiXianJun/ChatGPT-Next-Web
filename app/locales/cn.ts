@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "一个秘钥35元，中度使用可用半年，小本生意，一单赚几块钱，，需要的铁子可加我微信，makabaka_lxj，秘钥可在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      : "需要秘钥的铁子可加我微信，makabaka_lxj，一个秘钥35元，中度使用可用半年，轻度使用一年木有问题，纯小本生意，一单只赚几块钱，，秘钥可在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
   },
   Auth: {
     Title: "需要密码",
